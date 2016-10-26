@@ -70,6 +70,8 @@ const char *MEDIA_MIMETYPE_AUDIO_EAC3 = "audio/eac3";
 #ifdef DOLBY_ENABLE
 const char *MEDIA_MIMETYPE_AUDIO_EAC3_JOC = "audio/eac3-joc";
 #endif // DOLBY_END
+const char *MEDIA_MIMETYPE_AUDIO_AC4 = "audio/ac4";
+const char *MEDIA_MIMETYPE_AUDIO_AC4_SYNC = "audio/ac4-sync";
 
 const char *MEDIA_MIMETYPE_CONTAINER_MPEG4 = "video/mp4";
 const char *MEDIA_MIMETYPE_CONTAINER_WAV = "audio/x-wav";
